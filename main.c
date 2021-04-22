@@ -6,7 +6,7 @@
  * - SPIM and a Waveshield SSD1327 OLED 128x128 16 grey level display
  * that can be found on Ebay/Amazon for few EUR.
  * 
- * Created 20200102 by @daubsi, based on the great u8g2 library https://github.com/olikraus/u8g2
+ * Created 20210102 by @daubsi, based on the great u8g2 library https://github.com/olikraus/u8g2
  * Probably not the cleanest code but it works :-D
  * 
  * TWI: Set up with i2c/TWIM in 400 kHz (100 kHz works equally well) in non-blocking mode
